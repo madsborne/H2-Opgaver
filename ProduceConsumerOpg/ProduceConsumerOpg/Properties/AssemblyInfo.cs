@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("ThreadSyncOpg1")]
+[assembly: AssemblyTitle("ProduceConsumerOpg")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("ThreadSyncOpg1")]
+[assembly: AssemblyProduct("ProduceConsumerOpg")]
 [assembly: AssemblyCopyright("Copyright ©  2019")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("7af447d9-152a-434c-aafe-98a49fde152d")]
+[assembly: Guid("987eacc4-a56d-4176-8f84-8b09a008bf37")]
 
 // Version information for an assembly consists of the following four values:
 //
