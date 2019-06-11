@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{25C86974-8AD3-407D-9A45-DD4BD1683665}</ProjectGuid>
+    <ProjectGuid>{80683ABA-C1A1-415E-B469-B39E4E93ABE8}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>OOPSolidMyBanker</RootNamespace>
-    <AssemblyName>OOPSolidMyBanker</AssemblyName>
+    <RootNamespace>SOLIDOpg1</RootNamespace>
+    <AssemblyName>SOLIDOpg1</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,10 +43,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Card.cs" />
+    <Compile Include="Parallelogram.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Visa.cs" />
+    <Compile Include="Rectangle.cs" />
+    <Compile Include="Square.cs" />
+    <Compile Include="Trapeze.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
