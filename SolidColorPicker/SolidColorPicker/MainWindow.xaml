@@ -7,7 +7,7 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <Rectangle x:Name="colorArea" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="100" Margin="320,24,0,0" Stroke="Black" VerticalAlignment="Top" Width="174"/>
+        <Rectangle x:Name="colorArea" Fill="Black" HorizontalAlignment="Left" Height="100" Margin="320,24,0,0" Stroke="Black" VerticalAlignment="Top" Width="174"/>
         <Slider x:Name="sliderForR" HorizontalAlignment="Left" Margin="79,187,0,0" VerticalAlignment="Top" Height="19" Width="679" ValueChanged="SliderForR_ValueChanged" Maximum="255"/>
         <Slider x:Name="sliderForG" HorizontalAlignment="Left" Margin="79,260,0,0" VerticalAlignment="Top" Width="679" ValueChanged="SliderForG_ValueChanged" Maximum="255"/>
         <Slider x:Name="sliderForB" HorizontalAlignment="Left" Margin="79,323,0,0" VerticalAlignment="Top" Width="679" ValueChanged="SliderForB_ValueChanged" Maximum="255"/>
