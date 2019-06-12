@@ -1,0 +1,7 @@
+C:\Users\mads648i\source\repos\TestDragRacing\TestDragRacing\bin\Debug\TestDragRacing.exe.config
+C:\Users\mads648i\source\repos\TestDragRacing\TestDragRacing\bin\Debug\TestDragRacing.exe
+C:\Users\mads648i\source\repos\TestDragRacing\TestDragRacing\bin\Debug\TestDragRacing.pdb
+C:\Users\mads648i\source\repos\TestDragRacing\TestDragRacing\obj\Debug\TestDragRacing.csprojAssemblyReference.cache
+C:\Users\mads648i\source\repos\TestDragRacing\TestDragRacing\obj\Debug\TestDragRacing.csproj.CoreCompileInputs.cache
+C:\Users\mads648i\source\repos\TestDragRacing\TestDragRacing\obj\Debug\TestDragRacing.exe
+C:\Users\mads648i\source\repos\TestDragRacing\TestDragRacing\obj\Debug\TestDragRacing.pdb
