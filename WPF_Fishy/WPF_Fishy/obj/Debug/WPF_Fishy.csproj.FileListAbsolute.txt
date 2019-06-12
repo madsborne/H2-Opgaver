@@ -1,0 +1,16 @@
+C:\Users\helte\source\repos\WPF_Fishy\WPF_Fishy\bin\Debug\WPF_Fishy.exe.config
+C:\Users\helte\source\repos\WPF_Fishy\WPF_Fishy\bin\Debug\WPF_Fishy.exe
+C:\Users\helte\source\repos\WPF_Fishy\WPF_Fishy\bin\Debug\WPF_Fishy.pdb
+C:\Users\helte\source\repos\WPF_Fishy\WPF_Fishy\obj\Debug\WPF_Fishy.csprojAssemblyReference.cache
+C:\Users\helte\source\repos\WPF_Fishy\WPF_Fishy\obj\Debug\MainWindow.g.cs
+C:\Users\helte\source\repos\WPF_Fishy\WPF_Fishy\obj\Debug\App.g.cs
+C:\Users\helte\source\repos\WPF_Fishy\WPF_Fishy\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\helte\source\repos\WPF_Fishy\WPF_Fishy\obj\Debug\WPF_Fishy_MarkupCompile.cache
+C:\Users\helte\source\repos\WPF_Fishy\WPF_Fishy\obj\Debug\WPF_Fishy_MarkupCompile.lref
+C:\Users\helte\source\repos\WPF_Fishy\WPF_Fishy\obj\Debug\MainWindow.baml
+C:\Users\helte\source\repos\WPF_Fishy\WPF_Fishy\obj\Debug\WPF_Fishy.g.resources
+C:\Users\helte\source\repos\WPF_Fishy\WPF_Fishy\obj\Debug\WPF_Fishy.Properties.Resources.resources
+C:\Users\helte\source\repos\WPF_Fishy\WPF_Fishy\obj\Debug\WPF_Fishy.csproj.GenerateResource.cache
+C:\Users\helte\source\repos\WPF_Fishy\WPF_Fishy\obj\Debug\WPF_Fishy.csproj.CoreCompileInputs.cache
+C:\Users\helte\source\repos\WPF_Fishy\WPF_Fishy\obj\Debug\WPF_Fishy.exe
+C:\Users\helte\source\repos\WPF_Fishy\WPF_Fishy\obj\Debug\WPF_Fishy.pdb
