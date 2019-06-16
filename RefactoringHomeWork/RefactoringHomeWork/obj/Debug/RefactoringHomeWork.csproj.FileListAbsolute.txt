@@ -1,0 +1,7 @@
+C:\Users\helte\source\repos\RefactoringHomeWork\RefactoringHomeWork\obj\Debug\RefactoringHomeWork.csprojAssemblyReference.cache
+C:\Users\helte\source\repos\RefactoringHomeWork\RefactoringHomeWork\obj\Debug\RefactoringHomeWork.csproj.CoreCompileInputs.cache
+C:\Users\helte\source\repos\RefactoringHomeWork\RefactoringHomeWork\bin\Debug\RefactoringHomeWork.exe.config
+C:\Users\helte\source\repos\RefactoringHomeWork\RefactoringHomeWork\bin\Debug\RefactoringHomeWork.exe
+C:\Users\helte\source\repos\RefactoringHomeWork\RefactoringHomeWork\bin\Debug\RefactoringHomeWork.pdb
+C:\Users\helte\source\repos\RefactoringHomeWork\RefactoringHomeWork\obj\Debug\RefactoringHomeWork.exe
+C:\Users\helte\source\repos\RefactoringHomeWork\RefactoringHomeWork\obj\Debug\RefactoringHomeWork.pdb
