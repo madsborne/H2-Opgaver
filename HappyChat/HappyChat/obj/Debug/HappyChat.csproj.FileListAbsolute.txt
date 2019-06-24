@@ -1,0 +1,15 @@
+C:\Users\helte\source\repos\HappyChat\HappyChat\bin\Debug\HappyChat.exe.config
+C:\Users\helte\source\repos\HappyChat\HappyChat\bin\Debug\HappyChat.exe
+C:\Users\helte\source\repos\HappyChat\HappyChat\bin\Debug\HappyChat.pdb
+C:\Users\helte\source\repos\HappyChat\HappyChat\obj\Debug\HappyChat.csprojAssemblyReference.cache
+C:\Users\helte\source\repos\HappyChat\HappyChat\obj\Debug\MainWindow.g.cs
+C:\Users\helte\source\repos\HappyChat\HappyChat\obj\Debug\App.g.cs
+C:\Users\helte\source\repos\HappyChat\HappyChat\obj\Debug\HappyChat_MarkupCompile.cache
+C:\Users\helte\source\repos\HappyChat\HappyChat\obj\Debug\HappyChat_MarkupCompile.lref
+C:\Users\helte\source\repos\HappyChat\HappyChat\obj\Debug\MainWindow.baml
+C:\Users\helte\source\repos\HappyChat\HappyChat\obj\Debug\HappyChat.g.resources
+C:\Users\helte\source\repos\HappyChat\HappyChat\obj\Debug\HappyChat.Properties.Resources.resources
+C:\Users\helte\source\repos\HappyChat\HappyChat\obj\Debug\HappyChat.csproj.GenerateResource.cache
+C:\Users\helte\source\repos\HappyChat\HappyChat\obj\Debug\HappyChat.csproj.CoreCompileInputs.cache
+C:\Users\helte\source\repos\HappyChat\HappyChat\obj\Debug\HappyChat.exe
+C:\Users\helte\source\repos\HappyChat\HappyChat\obj\Debug\HappyChat.pdb
